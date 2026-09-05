@@ -1,0 +1,38 @@
+[
+  {
+    "user_id": "U1",
+    "name": "Priya",
+    "style_tags": ["streetwear", "casual"],
+    "budget_min": 2000,
+    "budget_max": 6000,
+    "wardrobe": ["denim jacket", "white sneakers", "oversized tees"],
+    "past_purchase_tags": ["streetwear", "budget"]
+  },
+  {
+    "user_id": "U2",
+    "name": "Rohan",
+    "style_tags": ["formal", "minimalist"],
+    "budget_min": 8000,
+    "budget_max": 15000,
+    "wardrobe": ["navy blazer", "white formal shirts", "leather loafers"],
+    "past_purchase_tags": ["formal", "premium"]
+  },
+  {
+    "user_id": "U3",
+    "name": "Ananya",
+    "style_tags": ["bohemian", "colorful"],
+    "budget_min": 1500,
+    "budget_max": 4000,
+    "wardrobe": ["printed maxi dress", "layered scarves", "handmade jewelry"],
+    "past_purchase_tags": ["bohemian", "handmade"]
+  },
+  {
+    "user_id": "U4",
+    "name": "Kabir",
+    "style_tags": ["athleisure", "sporty"],
+    "budget_min": 4000,
+    "budget_max": 9000,
+    "wardrobe": ["joggers", "training sneakers", "performance tees"],
+    "past_purchase_tags": ["athleisure", "sportswear"]
+  }
+]

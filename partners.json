@@ -1,0 +1,83 @@
+[
+  {
+    "partner_id": "P1",
+    "name": "UrbanEdge",
+    "type": "product",
+    "category": "streetwear brand",
+    "price_min": 2000,
+    "price_max": 5000,
+    "style_tags": ["streetwear", "casual"]
+  },
+  {
+    "partner_id": "P2",
+    "name": "Formalcraft",
+    "type": "product",
+    "category": "formal wear brand",
+    "price_min": 8000,
+    "price_max": 20000,
+    "style_tags": ["formal", "minimalist"]
+  },
+  {
+    "partner_id": "P3",
+    "name": "BohoBloom",
+    "type": "product",
+    "category": "bohemian brand",
+    "price_min": 1500,
+    "price_max": 3500,
+    "style_tags": ["bohemian", "colorful"]
+  },
+  {
+    "partner_id": "P4",
+    "name": "ActiveFit",
+    "type": "product",
+    "category": "sportswear brand",
+    "price_min": 4000,
+    "price_max": 9000,
+    "style_tags": ["athleisure", "sporty"]
+  },
+  {
+    "partner_id": "P5",
+    "name": "LuxeThreads",
+    "type": "product",
+    "category": "luxury formal brand",
+    "price_min": 15000,
+    "price_max": 30000,
+    "style_tags": ["formal", "luxury"]
+  },
+  {
+    "partner_id": "P6",
+    "name": "StreetLane",
+    "type": "product",
+    "category": "budget streetwear brand",
+    "price_min": 1000,
+    "price_max": 3000,
+    "style_tags": ["streetwear", "budget"]
+  },
+  {
+    "partner_id": "P7",
+    "name": "Meera Kapoor",
+    "type": "professional",
+    "category": "color analyst",
+    "price_min": 2000,
+    "price_max": 2000,
+    "style_tags": ["color analysis", "bohemian"]
+  },
+  {
+    "partner_id": "P8",
+    "name": "Arjun Mehta",
+    "type": "professional",
+    "category": "personal stylist",
+    "price_min": 5000,
+    "price_max": 5000,
+    "style_tags": ["formal", "minimalist"]
+  },
+  {
+    "partner_id": "P9",
+    "name": "Zoya Khan",
+    "type": "professional",
+    "category": "personal stylist",
+    "price_min": 3000,
+    "price_max": 3000,
+    "style_tags": ["streetwear", "casual"]
+  }
+]
